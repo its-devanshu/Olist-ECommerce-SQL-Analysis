@@ -1,4 +1,4 @@
-📊 Driving Business Insights: Advanced SQL Analysis of the Olist E-Commerce Dataset
+📊 Driving Business Insights: Advanced SQL Analysis of the Olist E-Commerce Dataset.
 
 📝 Executive Summary
 
