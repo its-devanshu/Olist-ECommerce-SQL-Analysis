@@ -1,6 +1,6 @@
 –Driving Business Insights: Advanced SQL Analysis of the Olist E-Commerce Dataset.
 
-Executive Summary:
+Executive Summary: 
 This project transforms raw transactional data from the Brazilian Olist e-commerce ecosystem into business intelligence. By leveraging advanced SQL techniques—including Common Table Expressions (CTEs), Window Functions, and complex relational joins—I developed a suite of queries designed to optimize logistics, identify high-value customer segments, and track longitudinal financial growth.
 
 Strategic Business Solutions:
